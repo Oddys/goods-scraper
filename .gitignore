@@ -1,0 +1,6 @@
+.scrapy/
+jd/**/__pycache__/
+*.log
+*.csv
+jd/spiders/jdqnap_with_selenium.py
+*_proxy.py
